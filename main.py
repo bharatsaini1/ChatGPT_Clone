@@ -5,7 +5,7 @@ from flask_pymongo import PyMongo
 
 import openai
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 
 
